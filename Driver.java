@@ -1,4 +1,4 @@
-                                            public class Driver{
+                                             public class Driver{
     public static void main(String args[]){
         Stack s = new Stack();
         s.push(10);
